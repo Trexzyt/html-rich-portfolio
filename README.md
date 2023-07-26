@@ -1,1 +1,1 @@
-# html-rich-portfolio
+# html-richard-portfolio
